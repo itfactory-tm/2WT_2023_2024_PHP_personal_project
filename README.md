@@ -29,6 +29,9 @@
   - Configure PhpStorm (https://itf-laravel-10.netlify.app/config/laravel#configure-phpstormLinks)
   - Run the command `php artisan key:generate`
   - Run the command `php artisan storage:link`
-  - Run the command `php artisan migrate`
+  - Run the command `php artisan migrate` or `php artisan migrate:fresh`
   - Run the command `npm run watch` to open the project in the browser
 
+## Tips
+- Laravel 10 cheat sheet summary: (https://itf-laravel-10.netlify.app/config/cheatsheet)[https://itf-laravel-10.netlify.app/config/cheatsheet]
+- Livewire 3 cheat sheet summary: (https://itf-laravel-10.netlify.app/config/cheatsheetLivewire)[https://itf-laravel-10.netlify.app/config/cheatsheetLivewire]
